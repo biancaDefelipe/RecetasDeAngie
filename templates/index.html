@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon"  href="../static/img/chef.png">
+    <title>Recetas de Angie</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1> <img  class= "lemon-icon" src="../static/img/border-lemon.png"> Recetas de Angie</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio" id="nav-inicio">Inicio</a></li>
+                <li><a href="#recetas" id="nav-recetas">Recetas</a></li>
+                <li><a href="#contacto" id="nav-contacto">Contacto</a></li>
+            </ul>
+            
+        </nav>
+    </header>
+    <section id="inicio">
+        <h2>Explora nuestras categorías de recetas</h2>
+        <div class="filter-buttons">
+            <button data-category="Merienda">Merienda</button>
+            <button data-category="Cena">Cena</button>
+            <button data-category="Postres">Postres</button>
+            <button data-category="all">Todas</button>
+        </div>
+    </section>
+    <section id="recetas">
+        <h2>Todas Las Recetas</h2>
+
+        <!-- Barra de búsqueda -->
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Buscar recetas por nombre o ingrediente...">
+            <button id="search-button"><img src="../static/img/search.svg" alt="Buscar"></button>
+        </div>
+
+        <!-- Contenedor dinámico de recetas -->
+        <div id="recetas-container"></div>
+    </section>
+
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <form id="contactForm"  method="POST" action="/">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <!-- Cuadro de detalles de la receta -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="receta-titulo"></h2>
+            <h3>Ingredientes</h3>
+            <ul id="ingredientes-lista"></ul>
+            <h3>Instrucciones</h3>
+            <p id="instrucciones"></p>
+
+            <!-- Botón de compartir -->
+            <button id="share-button" class="share-button">
+                <img src="../static/img/share-fill.svg" alt="Compartir">
+                <span class="share-tooltip">Compartir receta</span>
+                <span class="share-text">Compartir receta</span> <!-- Texto que aparecerá en móviles/tabletas -->   
+            </button>
+            
+            <!-- Mensaje de copiado -->
+            <p id="copied-message" class="copied-message">¡Link copiado al portapapeles!</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+
+
+
+
+
+    <footer class="contenedor-footer">
+       <div>
+            <span>Desarrollado por Bianca Defelipe 2024
+                <button onclick="abrirMiGit()" id="github-button">
+                    <img src="../static/img/github.svg" alt="Github">
+                </button>
+            </span>
+            
+       </div>
+    </footer>
+</body>
+
+
+</html>

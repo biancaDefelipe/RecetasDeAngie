@@ -1,0 +1,297 @@
+{
+    "recetas": [
+        {
+            "id": "tortaDeRicota",
+            "titulo": "Torta de Ricota",
+            "ingredientes": [
+                { "nombre": "Ricota", "cantidad": "500gr" },
+                { "nombre": "Harina", "cantidad": "240gr" },
+                { "nombre": "Azucar", "cantidad": "100gr" },
+                { "nombre": "Azucar", "cantidad": "150gr (para el relleno)" },
+                { "nombre": "Manteca", "cantidad": "125gr" },
+                { "nombre": "Manteca", "cantidad": "20gr (para el relleno)" },
+                { "nombre": "Huevo", "cantidad": "1" },
+                { "nombre": "Huevo", "cantidad": "1 (para el relleno)" },
+                { "nombre": "Yema", "cantidad": "1" },
+                { "nombre": "Yema", "cantidad": "(pra el relleno) 2" },
+                { "nombre": "Leche", "cantidad": "2 cdas" },
+                { "nombre": "Escencia de vainilla", "cantidad": "1/2 cda" }, 
+                { "nombre": "Polvo de hornear", "cantidad": "4 cdtas" }
+            ],
+            "instrucciones": "Tamizar juntas la harina, el polvo de hornear y los 100gr de azucar y luego agregar la manteca mezcalndo con un tenedor.\nAñadir el huevo, la yema y la leche y amasar ligeramente, luego dejar descansar pot 15 minutos.\n Estirar la masa dejandola de 1/2 cm de espesor y dividir en 2 partes, con una mitad forrar un ,molde ligeramente enmatecado.\nPara el relleno mezcalr en un tazon la ricota, los 150gr de azucar, la manteca y las 2 yemas mezclando todo con 1 tenedor.\nAgrear al esencia de vainilla y vertir la preparacion sobre la masa en el molde.\nCubrir con la otra mitad de la masa que habiamos guardado.Opcional: Pintar con un huevo.\nLlevar a un horno caliente durante 25 minutos. Opcional: Una vez fria espolvorear con azucar impalpable", 
+            "categoria": ["Postres"]
+        },
+        {
+            "id": "galletitasDeLimon",
+            "titulo": "Galletitas de Limón",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "100gr" },
+                { "nombre": "Azucar", "cantidad": "4cdas" },
+                { "nombre": "Harina", "cantidad": "200gr" },
+                { "nombre": "Polvo de hornear", "cantidad": "1cda" },
+                { "nombre": "Huevo", "cantidad": "1" }, 
+                { "nombre": "Limón", "cantidad": "1" }
+
+            ],
+            "instrucciones": "Tamizar juntas la harina el polvo de hornear y el azucar.\nAgregar la manteca e incorporarla mezclando.\n Añadir la ralladura y el jugo del limón junto con el huevo.\n Mezlcar hasta unir todos los ingredientes formando una masa y luego dejarla reposar 30min en la heladera i hasta que la masa este fria y de consistencia firme.\nExtender con el palota hasta obtener un espesor de 3 o 4mm. Cortar la masa en redondeles y colocarlos en una placa para horno enmantecada.\nHornear en horno moderado durante 10 o 15 min hasta que esten cocidas", 
+            "categoria": ["Merienda"]
+        }, 
+        {
+            "id": "chcoTrufas",
+            "titulo": "Choco-Trufas",
+            "ingredientes": [
+                { "nombre": "Dulce de Leche", "cantidad": "250gr" },
+                { "nombre": "Chocolate en barra", "cantidad": "3 barritas" },
+                { "nombre": "Chocolinas", "cantidad": "170gr" },
+                { "nombre": "Coco", "cantidad": "cn" },
+                { "nombre": "Huevo", "cantidad": "1" }, 
+                { "nombre": "Limón", "cantidad": "1" }
+
+            ],
+            "instrucciones": "Triturar las chocolinas e integrar con el chocolate derretido y el dulce de leche.\nFormar bolitas y pasarlas por coco rallado ", 
+            "categoria": ["Postres"]
+        }, 
+       
+        {
+            "id": "tartaDeCoco",
+            "titulo": "Tarta de Coco",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "300gr" },
+                { "nombre": "Azucar", "cantidad": "150gr" },
+                { "nombre": "Harina", "cantidad": "300gr" },
+                { "nombre": "Coco", "cantidad": "150gr" },
+                { "nombre": "Huevo", "cantidad": "4" } 
+            
+            ],
+            "instrucciones": "Mezlcar los 300gr de harina con la manteca pomada, el azucar y 2 huevos. Una vez integrado dejar reposar en la heladera durante 30minutos.\nPara el relleno mezclar 2 huevos con el coco", 
+            "categoria": ["Postres"]
+        }, 
+        {
+            "id": "chocotorta",
+            "titulo": "Chocotorta",
+            "ingredientes": [
+                { "nombre": "Queso crema", "cantidad": "300gr" },
+                { "nombre": "Dulce de Leche", "cantidad": "500gr" },
+                { "nombre": "Chocolinas", "cantidad": "400gr" },
+                { "nombre": "Oporto", "cantidad": "1/2 taza" },
+                { "nombre": "Chocolate en barra", "cantidad": "1 barra" }
+
+            ],
+            "instrucciones": "Mezclar el dulce de leche con el queso crema.\nEn una fuente rectangular, colocar una capa de galletitas, humedercerlas con oporto y untarla con un poco de la mezcla.Repetir el proceso la cantidad de veces que considere.\nPor ultimo colocar una capa de la mezcla y decorar con chocolate rallado.Dejar enfriar por al menos 3 horas ", 
+            "categoria": ["Postres"]
+        },
+        {
+            "id": "palmeritas",
+            "titulo": "Palmeritas EDITAR",
+            "ingredientes": [
+                { "nombre": "Disco de Hojaldre", "cantidad": "1" },
+                { "nombre": "Azucar", "cantidad": "cn" },
+                { "nombre": "Manteca", "cantidad": "cn" }
+            ],
+            "instrucciones": "Pincelar la masa con la manteca derretida y espolvoear la masa con azucar.\nArrollar los 2 extremos hacia el medio y llevar al freezer 10 minutos.Luego cortar rodajas de 1cm de espesor. Colocarlas en una placa enmantecada y cocinar dandolas vueltas hasta que esten doradas de ambos lados", 
+            "categoria": ["Merienda"]
+        }, 
+        {
+            "id": "lemonPie",
+            "titulo": "Lemon Pie",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "90gr" },
+                { "nombre": "Galletitas Lincoln", "cantidad": "150gr" },
+                { "nombre": "Leche condensada", "cantidad": "2 latas" },
+                { "nombre": "Yema", "cantidad": "6" },
+                { "nombre": "Limon", "cantidad": "3" }, 
+                { "nombre": "Clara de Huevo", "cantidad": "2" },
+                { "nombre": "Azucar", "cantidad": "160gr" }
+
+            ],
+            "instrucciones": "Mezclar las galletitas trituradas con la manteca y una vez integrado colocar la mezcla en la base y los bordes de un moldepara tarta de 24cm, presionando bien. Cocinar en horno precalentados a temperatura moderada por 5 min.\nPara el relleno, mezclar la leche condensada y las yemas, luego incorporar el jugo y la ralladura de limón. Una vez integrado verter sobre la base.Cocinar durante 15 min.\nPara el merengue: mezclar las claras con el azucar llevar a baño maria y mezclar continuamente hasta que los cristales de azucar se disuelvan: Retirar y batir hasta qlorar un merengue consistente. Colocar en una manga y poner sobre la tarta.Dehar enfriar", 
+            "categoria": ["Postres"]
+        }, 
+        {
+            "id": "masaPionono",
+            "titulo": "Masa de Pionono",
+            "ingredientes": [
+                { "nombre": "Yema", "cantidad": "5" },
+                { "nombre": "Clara de Huevo", "cantidad": "5" },
+                { "nombre": "Azucar", "cantidad": "5cdas" },
+                { "nombre": "Harina", "cantidad": "5cdas" },
+                { "nombre": "Escencia de vainilla", "cantidad": "1 cdta" }
+
+            ],
+            "instrucciones": "Batir las clasras a punto nieve con el azucar.\nMeclar las yemas con el azucar y las esencia de vainilla. Agregarle en forma alternada y envolvente la harina y las claras.\nPoner la preparaciones en papel manteca enmantecado y enharinado. Cocinar a fuego moderado.\nUna vez que salio del horno colocar encima de la masa un repasador para conservar la humedad. ", 
+            "categoria": ["Postres", "Cena"]
+        }, 
+     
+        {
+            "id": "lemonPie",
+            "titulo": "Lemon Pie",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "90gr" },
+                { "nombre": "Galletitas Lincoln", "cantidad": "150gr" },
+                { "nombre": "Leche condensada", "cantidad": "2 latas" },
+                { "nombre": "Yema", "cantidad": "6" },
+                { "nombre": "Limon", "cantidad": "3" }, 
+                { "nombre": "Clara de Huevo", "cantidad": "2" },
+                { "nombre": "Azucar", "cantidad": "160gr" }
+
+            ],
+            "instrucciones": "Mezclar las galletitas trituradas con la manteca y una vez integrado colocar la mezcla en la base y los bordes de un moldepara tarta de 24cm, presionando bien. Cocinar en horno precalentados a temperatura moderada por 5 min.\nPara el relleno, mezclar la leche condensada y las yemas, luego incorporar el jugo y la ralladura de limón. Una vez integrado verter sobre la base.Cocinar durante 15 min.\nPara el merengue: mezclar las claras con el azucar llevar a baño maria y mezclar continuamente hasta que los cristales de azucar se disuelvan: Retirar y batir hasta qlorar un merengue consistente. Colocar en una manga y poner sobre la tarta.Dehar enfriar", 
+            "categoria": ["Postres"]
+        },
+      
+        {
+            "id": "bombonesQuacker",
+            "titulo": "Bombones Quacker",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "200gr" },
+                { "nombre": "Avena", "cantidad": "250gr" },
+                { "nombre": "Dulce de Leche", "cantidad": "2 cdas bien colmadas" },
+                { "nombre": "Cacao Amargo", "cantidad": "200gr" },
+                { "nombre": "Escencia de vainilla", "cantidad": "1cda" }
+            ],
+            "instrucciones": "Mezclar muy bien todos los ingredientes hasta tener una pasta homogenea.\nTomar pequeñas porciones y darle forma de bolita. Pasarlas por azucar/coco/cacao/grana.\nCongelar hasta que endurezcan.", 
+            "categoria": ["Postres"]
+        },
+        {
+            "id": "galletasDeAvena",
+            "titulo": "Galletas de Avena",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "60gr" },
+                { "nombre": "Polvo de hornear", "cantidad": "2cdas" },
+                { "nombre": "Avena", "cantidad": "2 y 1/2 taza" },
+                { "nombre": "Yema", "cantidad": "2" },
+                { "nombre": "Escencia de vainilla", "cantidad": "1cdta" }, 
+                { "nombre": "Clara de Huevo", "cantidad": "2" },
+                { "nombre": "Azucar", "cantidad": "100gr" }, 
+                { "nombre": "Sal", "cantidad": "1/cdta" }
+
+            ],
+            "instrucciones": "Batir la manteca con el azucar y luego agregar las yemas y la esencia de vainilla\nIncorporar la avena, el polvo de hornear y la sal a la preparacion anterior.\nPor ultimo agregar las claras batidas a punto nieve e intrgrarlas bien.\nColocar la masa por cdas en una placa enmantecada dejando espacio entre una y otra.\nCocinar en horno moderado entre 12 y 15 minutos", 
+            "categoria": ["Merienda"]
+        },
+        {
+            "id": "masitasNegras",
+            "titulo": "Masitas Negras",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "100gr" },
+                { "nombre": "Harina Leudante", "cantidad": "3 tazas" },
+                { "nombre": "Azucar negra", "cantidad": "3dcdas" }, 
+                { "nombre": "Huevo", "cantidad": "2" },
+                { "nombre": "Azucar", "cantidad": "100gr" }, 
+                { "nombre": "Leche", "cantidad": "cn" }
+
+            ],
+            "instrucciones": "Mezlcar la harina con el azucar y la manteca. Hacer un hueco y agregar la leche y los huevos batidos mezclando bien hasta formar una masa.\nSe coloca en la asadera enmantecada y se pinta con leche.Luego se espolvorea con 3 cdas de azucar negra mezclada con y cda de harina.Hornear durante 15 min", 
+            "categoria": "Merienda"
+        },
+        {
+            "id": "masaConVariaciones",
+            "titulo": "Masa con Variaciones",
+            "ingredientes": [
+                { "nombre": "Huevo", "cantidad": "2" },
+                { "nombre": "Limon", "cantidad": "1" },
+                { "nombre": "Escencia de vainilla", "cantidad": "1 cdta" },
+                { "nombre": "Aceite", "cantidad": "1/2 taza" },
+                { "nombre": "Azucar", "cantidad": "3/4 taza" }, 
+                { "nombre": "Harina", "cantidad": "2 y 1/4 taza" },
+                { "nombre": "Polvo de hornear", "cantidad": "2 cdta" }
+            ],
+            "instrucciones": "Variaciones: Cacao amargo, nueces, coco rallado, canela,etc\nBatir los huevos y agregar la esencia y el limón. Añadir poco a poco el aceite y seguir batiendo, luego incorporar el azucar y batir hasta cremar.\nAgregar la harina previamente tamizada con el polvo de hornear y la sal.Dejar descansar un rato y luego estirar con bastante harina y cortar en circulos.\nColocar en una placa engrasada y hornear por 15 minutos o hasta que esten doradas por debajo.\n", 
+            "categoria": ["Merienda"]
+        },
+        {
+            "id": "torta1234",
+            "titulo": "torta 1,2,3,4",
+            "ingredientes": [
+                { "nombre": "Crema de Leche", "cantidad": "1 pote" },
+                { "nombre": "Azucar", "cantidad": "2 potes" },
+                { "nombre": "Harina Leudante", "cantidad": "3 potes" },
+                { "nombre": "Huevo", "cantidad": "4" }
+            ],
+            "instrucciones": "Usar el mismo pote para medir todos los ingrdientes. Mezclar la crema con el azucar y los 4 huevos.\nUna vez integrado, incorporar la harina y hornear", 
+            "categoria": ["Merienda"]
+        },
+        {
+            "id": "masaPanqueques",
+            "titulo": "Masa Para Panqueques",
+            "ingredientes": [
+                { "nombre": "Harina", "cantidad": "250gr" },
+                { "nombre": "Polvo de hornear", "cantidad": "1 cdta" },
+                { "nombre": "Azucar", "cantidad": "3cdas" },
+                { "nombre": "Huevo", "cantidad": "2" },
+                { "nombre": "Leche", "cantidad": "1/2 litro" },
+                { "nombre": "Manteca", "cantidad": "2cdas" },
+                { "nombre": "Sal", "cantidad": "cn" }
+        
+            ],
+            "instrucciones": "En un bowl añadir la harina tamizada junto con el polvo de hornear. Derretir la manteca e integrarla junto con la leche y los huevos. Batir y una vez integrado añadir de a poco la harina.\nBatir toda la preparacion hasta que esté lisa y espumosa y luego dejar reposar 1/2 hora.", 
+            "categoria": ["Postres" ,"Cena"]
+        },
+        {
+            "id": "budinDePan",
+            "titulo": "Budin de Pan",
+            "ingredientes": [
+                { "nombre": "Pan", "cantidad": "3 grandes" },
+                { "nombre": "Leche", "cantidad": "3 tazas~ 1 litro" },
+                { "nombre": "Leche", "cantidad": "cn" },
+                { "nombre": "Manteca", "cantidad": "50gr" },
+                { "nombre": "Huevo", "cantidad": "3" }, 
+                { "nombre": "Azucar", "cantidad": "1 taza" },
+                { "nombre": "Escencia de vainilla", "cantidad": "1 cdta" }
+
+            ],
+            "instrucciones": "Remojar lo panes trozeados en la leche.Una vez hidratados mezlcar las 3 tazas de leche(que debe estar caliente) con la miga.\nEn otro bowl meclar los huevos con el azucar y las esencia de vainilla.Agregar esta preparacion a la mezcla anterior.\nAcaramelar un molde y poner la preparacion en baño Maria al horno", 
+            "categoria": ["Postres"]
+        },
+        {
+            "id": "tortaBlancaflor",
+            "titulo": "Torta Blancaflor (EDITAR)",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "90gr" },
+                { "nombre": "Galletitas Lincoln", "cantidad": "150gr" },
+                { "nombre": "Leche condensada", "cantidad": "2 latas" },
+                { "nombre": "Yema", "cantidad": "6" },
+                { "nombre": "Limon", "cantidad": "3" }, 
+                { "nombre": "Clara de Huevo", "cantidad": "2" },
+                { "nombre": "Azucar", "cantidad": "160gr" }
+
+            ],
+            "instrucciones": "Mezclar las galletitas trituradas con la manteca y una vez integrado colocar la mezcla en la base y los bordes de un moldepara tarta de 24cm, presionando bien. Cocinar en horno precalentados a temperatura moderada por 5 min.\nPara el relleno, mezclar la leche condensada y las yemas, luego incorporar el jugo y la ralladura de limón. Una vez integrado verter sobre la base.Cocinar durante 15 min.\nPara el merengue: mezclar las claras con el azucar llevar a baño maria y mezclar continuamente hasta que los cristales de azucar se disuelvan: Retirar y batir hasta qlorar un merengue consistente. Colocar en una manga y poner sobre la tarta.Dehar enfriar", 
+            "categoria": ["Postres"]
+        },
+        {
+            "id": "tortaEssen",
+            "titulo": "Torta Essen (de aceite)",
+            "ingredientes": [
+                { "nombre": "Harina", "cantidad": "15cdas" },
+                { "nombre": "Aceite de girasol", "cantidad": "10cdas" },
+                { "nombre": "Azucar", "cantidad": "12cdas" },
+                { "nombre": "Huevo", "cantidad": "2" },
+                { "nombre": "Leche", "cantidad": "cn" }
+
+            ],
+            "instrucciones": "Batir los huevos con el azucar y el aceite y la esencia de vainilla.\n Agregar la harina alternandola con la leche.\nColocar en la olla essen emantecada y cocinar a fuego corona", 
+            "categoria": ["Merienda"]
+        },
+        {
+            "id": "budinHamburgues",
+            "titulo": "Budín Hamburgues",
+            "ingredientes": [
+                { "nombre": "Manteca", "cantidad": "250gr" },
+                { "nombre": "Azucar", "cantidad": "300gr" },
+                { "nombre": "Harina Leudante", "cantidad": "375gr" },
+                { "nombre": "Huevo", "cantidad": "3" },
+                { "nombre": "Moscato", "cantidad": "150" }, 
+                { "nombre": "Escencia de vainilla", "cantidad": "2 cdtas" },
+                { "nombre": "Chocolate en barra", "cantidad": "150gr" }, 
+                { "nombre": "Nueces", "cantidad": "250gr" }, 
+                { "nombre": "Polvo de hornear", "cantidad": "2 cdas" }
+
+            ],
+            "instrucciones": "Batir la manteca con el azucar y agregarle de a 1 los huevos, luego la harina intercalafa con el vino moscato y la esencia de vainilla. Mezcalr todo muy bien con cuchara/espatula de madera.\nPor último agregarle el chocolate y las nueces, previamente pasados por harina y añadir las 2cdas de polvo de hornear.\nColocar en un molde enmantecado y enharinados de 33x35cm y 10 cm de alto.\nCocinar durante 2hs aprox ", 
+            "categoria": ["Postres"]
+        }
+        
+        
+    ]
+}
