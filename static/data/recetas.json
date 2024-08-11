@@ -243,22 +243,7 @@
             "instrucciones": "Remojar lo panes trozeados en la leche.Una vez hidratados mezlcar las 3 tazas de leche(que debe estar caliente) con la miga.\nEn otro bowl meclar los huevos con el azucar y las esencia de vainilla.Agregar esta preparacion a la mezcla anterior.\nAcaramelar un molde y poner la preparacion en baño Maria al horno", 
             "categoria": ["Postres"]
         },
-        {
-            "id": "tortaBlancaflor",
-            "titulo": "Torta Blancaflor (EDITAR)",
-            "ingredientes": [
-                { "nombre": "Manteca", "cantidad": "90gr" },
-                { "nombre": "Galletitas Lincoln", "cantidad": "150gr" },
-                { "nombre": "Leche condensada", "cantidad": "2 latas" },
-                { "nombre": "Yema", "cantidad": "6" },
-                { "nombre": "Limon", "cantidad": "3" }, 
-                { "nombre": "Clara de Huevo", "cantidad": "2" },
-                { "nombre": "Azucar", "cantidad": "160gr" }
-
-            ],
-            "instrucciones": "Mezclar las galletitas trituradas con la manteca y una vez integrado colocar la mezcla en la base y los bordes de un moldepara tarta de 24cm, presionando bien. Cocinar en horno precalentados a temperatura moderada por 5 min.\nPara el relleno, mezclar la leche condensada y las yemas, luego incorporar el jugo y la ralladura de limón. Una vez integrado verter sobre la base.Cocinar durante 15 min.\nPara el merengue: mezclar las claras con el azucar llevar a baño maria y mezclar continuamente hasta que los cristales de azucar se disuelvan: Retirar y batir hasta qlorar un merengue consistente. Colocar en una manga y poner sobre la tarta.Dehar enfriar", 
-            "categoria": ["Postres"]
-        },
+        
         {
             "id": "tortaEssen",
             "titulo": "Torta Essen (de aceite)",
